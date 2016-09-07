@@ -1,0 +1,26 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	background-color: #3FB7C8;
+
+
+}
+h1{
+	font-size: 200%;
+	background-color: #92B31F;
+	color: #7F363C;
+	border: 1px solid #4285B7;
+	width: 50%;
+	height: 30%;
+}
+img{
+	border-radius: 5%;
+}
+#caja1{
+	border: #001860;
+	background-color: #006194;
+	width: 50%;
+	height: 40%
+	border 1px solid #DBD921;
+	color: #fff;
+}
